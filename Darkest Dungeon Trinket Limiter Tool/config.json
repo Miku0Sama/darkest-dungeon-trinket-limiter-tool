@@ -1,0 +1,12 @@
+{
+	"limit": 1,
+	"exclude": [
+		"example_trinket_id",
+		"worker_wages",
+		"silver_severance",
+		"beneficent_banknote",
+		"auctionable_accessories",
+		"money_en_masse",
+		"glint_of_gold"
+	]
+}
